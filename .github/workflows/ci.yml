@@ -3,7 +3,7 @@ name: React CI
 on: push
 
 jobs:
-  run-test:
+  run-build:
     runs-on: ubuntu-latest
 
     steps:
